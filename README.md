@@ -24,11 +24,11 @@
 
 - [x] Basic types
 
-- [ ] Zero values
+- [x] Zero values
 
-- [ ] Type conversions
+- [x] Type conversions
 
-- [ ] Type inference
+- [x] Type inference
 
 - [ ] Constant
 
