@@ -38,5 +38,34 @@
 
 ## Flow control statements: for, if, else, switch and defer
 
+- [ ] For
+
+- [ ] For continued
+
+- [ ] For is Go's "while"
+
+- [ ] Forever
+
+- [ ] if
+
+- [ ] if with a short statement
+
+- [ ] if and else
+
+- [ ] Exercise: Loops and Functions
+
+- [ ] Switch
+
+- [ ] Switch evaluation order
+
+- [ ] Swhich with no condition
+
+- [ ] Defer
+
+- [ ] Stacking defers
+
+- [ ] Congratulations!
+
+## More types: structs, slices, and maps.
 
 
