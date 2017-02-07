@@ -30,11 +30,11 @@
 
 - [x] Type inference
 
-- [ ] Constant
+- [x] Constant
 
-- [ ] Numeric Constant
+- [x] Numeric Constant
 
-- [ ] Congratulation!
+- [x] Congratulation!
 
 ## Flow control statements: for, if, else, switch and defer
 
