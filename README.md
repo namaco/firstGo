@@ -38,17 +38,17 @@
 
 ## Flow control statements: for, if, else, switch and defer
 
-- [ ] For
+- [x] For
 
-- [ ] For continued
+- [x] For continued
 
-- [ ] For is Go's "while"
+- [x] For is Go's "while"
 
-- [ ] Forever
+- [x] Forever
 
-- [ ] if
+- [x] if
 
-- [ ] if with a short statement
+- [x] if with a short statement
 
 - [ ] if and else
 
