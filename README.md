@@ -50,11 +50,11 @@
 
 - [x] if with a short statement
 
-- [ ] if and else
+- [x] if and else
 
-- [ ] Exercise: Loops and Functions
+- [x] Exercise: Loops and Functions
 
-- [ ] Switch
+- [x] Switch
 
 - [ ] Switch evaluation order
 
