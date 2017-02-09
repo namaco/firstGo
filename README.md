@@ -56,15 +56,15 @@
 
 - [x] Switch
 
-- [ ] Switch evaluation order
+- [x] Switch evaluation order
 
-- [ ] Swhich with no condition
+- [x] Swhich with no condition
 
-- [ ] Defer
+- [x] Defer
 
-- [ ] Stacking defers
+- [x] Stacking defers
 
-- [ ] Congratulations!
+- [x] Congratulations!
 
 ## More types: structs, slices, and maps.
 
