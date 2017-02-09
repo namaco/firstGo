@@ -58,7 +58,7 @@
 
 - [x] Switch evaluation order
 
-- [x] Swhich with no condition
+- [x] Switch with no condition
 
 - [x] Defer
 
