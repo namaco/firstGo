@@ -68,4 +68,21 @@
 
 ## More types: structs, slices, and maps.
 
+- [ ] Pointers
+
+- [ ] Structs
+
+- [ ] Struct Fields
+
+- [ ] Pointers to structs
+
+- [ ] Struct Literals
+
+- [ ] Arrays
+
+- [ ] Slices
+
+- [ ] Slices are like references to arrays
+
+
 
