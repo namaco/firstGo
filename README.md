@@ -68,7 +68,7 @@
 
 ## More types: structs, slices, and maps.
 
-- [ ] Pointers
+- [x] Pointers
 
 - [ ] Structs
 
