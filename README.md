@@ -70,7 +70,7 @@
 
 - [x] Pointers
 
-- [ ] Structs
+- [x] Structs
 
 - [ ] Struct Fields
 
