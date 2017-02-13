@@ -72,7 +72,7 @@
 
 - [x] Structs
 
-- [ ] Struct Fields
+- [x] Struct Fields
 
 - [ ] Pointers to structs
 
