@@ -76,7 +76,7 @@
 
 - [x] Pointers to structs
 
-- [ ] Struct Literals
+- [x] Struct Literals
 
 - [ ] Arrays
 
