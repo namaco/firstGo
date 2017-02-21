@@ -78,7 +78,7 @@
 
 - [x] Struct Literals
 
-- [ ] Arrays
+- [x] Arrays
 
 - [ ] Slices
 
