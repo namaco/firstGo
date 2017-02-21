@@ -80,7 +80,7 @@
 
 - [x] Arrays
 
-- [ ] Slices
+- [x] Slices
 
 - [ ] Slices are like references to arrays
 
